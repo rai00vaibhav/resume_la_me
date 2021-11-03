@@ -1,0 +1,12 @@
+.footer-background {
+  background: #000;
+  color: #fff;
+}
+.footer-nav-link {
+  color: #fff;
+}
+.footer-nav-link:hover,
+.footer-nav-link:active,
+.footer-nav-link:focus {
+  color: #ccc;
+}

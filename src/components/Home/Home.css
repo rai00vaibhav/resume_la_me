@@ -1,0 +1,26 @@
+.resume-outer {
+  width: 80%;
+  margin: 10px auto;
+  box-shadow: 0px 0px 10px 0px #212529;
+}
+.resume-header {
+  background: #055160;
+  color: #fff;
+  font-size: 1.15em;
+  text-align: center;
+  padding: 5px;
+}
+.resume-objective {
+  background: #fff;
+  padding: 10px;
+}
+.resume-text-color {
+  color: #ff9800;
+}
+.resume-border-left {
+  border-left: 1px solid #ccc;
+}
+.resume-list > li {
+  padding: 5px;
+  text-align: justify;
+}

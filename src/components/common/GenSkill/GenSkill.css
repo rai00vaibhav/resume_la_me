@@ -1,0 +1,13 @@
+.skillType {
+  box-shadow: 0px 0px 10px 0px #212529;
+  font-size: 1.5em;
+  padding: 5px;
+  font-weight: bold;
+}
+.skillDesc {
+  box-shadow: 0px 0px 10px 0px #212529;
+  margin-top: 10px;
+  padding: 8px;
+  text-align: justify;
+  border-radius: 8px;
+}
